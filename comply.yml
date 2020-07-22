@@ -1,0 +1,5 @@
+name: Mentorcliq
+filePrefix: mcliq
+tickets:
+  github: {}
+approvedBranch: ""
