@@ -2,4 +2,4 @@ name: Mentorcliq
 filePrefix: mcliq
 tickets:
   github: {https://github.com/gm3jones/MentorcliQ-Compliance}
-approvedBranch: ""
+approvedBranch: "https://github.com/gm3jones/MentorcliQ-Compliance/tree/Documents-Development"
