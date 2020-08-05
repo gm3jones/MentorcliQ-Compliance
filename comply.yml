@@ -1,5 +1,5 @@
 name: Mentorcliq
 filePrefix: mcliq
 tickets:
-  github: {}
+  github: {https://github.com/gm3jones/MentorcliQ-Compliance}
 approvedBranch: ""
